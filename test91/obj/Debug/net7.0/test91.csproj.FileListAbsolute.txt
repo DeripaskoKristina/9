@@ -1,0 +1,15 @@
+C:\Users\yuriy\Desktop\Test_4\test9\test91\bin\Debug\net7.0\test91.exe
+C:\Users\yuriy\Desktop\Test_4\test9\test91\bin\Debug\net7.0\test91.deps.json
+C:\Users\yuriy\Desktop\Test_4\test9\test91\bin\Debug\net7.0\test91.runtimeconfig.json
+C:\Users\yuriy\Desktop\Test_4\test9\test91\bin\Debug\net7.0\test91.dll
+C:\Users\yuriy\Desktop\Test_4\test9\test91\bin\Debug\net7.0\test91.pdb
+C:\Users\yuriy\Desktop\Test_4\test9\test91\obj\Debug\net7.0\test91.csproj.AssemblyReference.cache
+C:\Users\yuriy\Desktop\Test_4\test9\test91\obj\Debug\net7.0\test91.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuriy\Desktop\Test_4\test9\test91\obj\Debug\net7.0\test91.AssemblyInfoInputs.cache
+C:\Users\yuriy\Desktop\Test_4\test9\test91\obj\Debug\net7.0\test91.AssemblyInfo.cs
+C:\Users\yuriy\Desktop\Test_4\test9\test91\obj\Debug\net7.0\test91.csproj.CoreCompileInputs.cache
+C:\Users\yuriy\Desktop\Test_4\test9\test91\obj\Debug\net7.0\test91.dll
+C:\Users\yuriy\Desktop\Test_4\test9\test91\obj\Debug\net7.0\refint\test91.dll
+C:\Users\yuriy\Desktop\Test_4\test9\test91\obj\Debug\net7.0\test91.pdb
+C:\Users\yuriy\Desktop\Test_4\test9\test91\obj\Debug\net7.0\test91.genruntimeconfig.cache
+C:\Users\yuriy\Desktop\Test_4\test9\test91\obj\Debug\net7.0\ref\test91.dll
